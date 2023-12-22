@@ -1,3 +1,3 @@
 [lfs]
-    url = "https://review.lineageos.org/LineageOS/android_external_chromium-webview_prebuilt_x86_64.git/info/lfs"
-    pushurl = "ssh://review.lineageos.org/LineageOS/android_external_chromium-webview_prebuilt_x86_64.git"
+    url = "https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/LineageOS/android_external_chromium-webview_prebuilt_x86_64.git/info/lfs"
+    pushurl = "ssh://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/LineageOS/android_external_chromium-webview_prebuilt_x86_64.git"
